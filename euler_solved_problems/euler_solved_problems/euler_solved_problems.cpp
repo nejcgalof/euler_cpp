@@ -8,7 +8,7 @@
 
 int main()
 {
-	problem_16();
+	std::cout<<problem_17();
 	std::cin.get();
     return 0;
 }

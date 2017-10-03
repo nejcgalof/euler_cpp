@@ -39,6 +39,9 @@
     <ClInclude Include="problem_16.h">
       <Filter>Problems</Filter>
     </ClInclude>
+    <ClInclude Include="problem_17.h">
+      <Filter>Problems</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
