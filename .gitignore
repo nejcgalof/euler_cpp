@@ -118,3 +118,4 @@ ClientBin/
 *.pfx
 *.publishsettings
 node_modules/
+/euler_solved_problems/euler_solved_problems.VC.db
