@@ -148,6 +148,7 @@
     <ClInclude Include="problem_16.h" />
     <ClInclude Include="problem_17.h" />
     <ClInclude Include="problem_18.h" />
+    <ClInclude Include="problem_19.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="euler_solved_problems.cpp" />
