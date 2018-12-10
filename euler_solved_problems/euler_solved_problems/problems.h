@@ -7,3 +7,4 @@
 #include "problem_19.h"
 #include "problem_20.h"
 #include "problem_21.h"
+#include "problem_22.h"

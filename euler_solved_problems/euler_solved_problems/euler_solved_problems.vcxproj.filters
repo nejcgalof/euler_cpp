@@ -45,6 +45,9 @@
     <ClInclude Include="problem_21.h">
       <Filter>Problems</Filter>
     </ClInclude>
+    <ClInclude Include="problem_22.h">
+      <Filter>Problems</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="euler_solved_problems.cpp">

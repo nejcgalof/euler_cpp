@@ -7,7 +7,7 @@
 
 int main()
 {
-	std::cout<<problem_21();
+	std::cout<<problem_22();
 	std::cin.get();
     return 0;
 }
